@@ -11,3 +11,4 @@ function saluta(nome,cognome){
 }
 
 saluta("alessandro","Puccini")
+saluta("Lorenzo","Provvedi")
